@@ -1,2 +1,1 @@
-# AI Response Quality Analyzer (Final)
-Next.js + Express + TypeScript + PostgreSQL + JWT + Tailwind + Recharts + Docker.
+AI Response Quality Analyzer - Final (fixed). See server/package.json for @types devDependencies.

@@ -15,7 +15,7 @@ services:
     build: ./server
     environment:
       DATABASE_URL: postgres://galuser:galpass@db:5432/galdb
-      JWT_SECRET: change_me_prod
+      JWT_SECRET: super_change_me
       PORT: 4000
     depends_on:
       - db

@@ -1,6 +1,6 @@
 {
   "name": "gal-server",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "private": true,
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
@@ -30,6 +30,10 @@
     "ts-jest": "29.1.0",
     "@types/jest": "29.5.3",
     "supertest": "6.3.3",
-    "@types/supertest": "2.0.12"
+    "@types/supertest": "2.0.12",
+    "@types/pg": "8.6.6",
+    "@types/cors": "2.8.12",
+    "@types/jsonwebtoken": "9.0.2",
+    "@types/bcryptjs": "2.4.2"
   }
 }
