@@ -10,7 +10,7 @@
 |------------|--------|------|
 | 🖥️ **Frontend** | Next.js 14 + Tailwind CSS | [https://gal-frontend.onrender.com/](https://gal-frontend.onrender.com/) |
 | ⚙️ **Backend** | Express + TypeScript + PostgreSQL | [https://gal-backend.onrender.com/](https://gal-backend.onrender.com/) |
-| 🎬 **Demo Video** | 2-minute walkthrough | [View Demo Video → Click Here](demo/ai_response_analyzer_2min_trimmed.mp4) |
+| 🎬 **Demo Video** | 2-minute walkthrough | [View Demo Video → Click Here](demo/demo.mp4) |
 
 ---
 
